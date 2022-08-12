@@ -14,3 +14,13 @@ Reference:
 - [TvDataFeed](https://github.com/StreamAlpha/tvdatafeed)
 - [Stock Price Prediction by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/#h2_12)
 - [Exploratory Data Analysis on UBER Stocks Dataset by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/11/exploratory-data-analysis-on-uber-stocks-dataset)
+
+## Gallery:
+
+![Initial data](/image/1.png)
+
+<p style="text-align: center;">Initial Data</p>
+
+<p align="center">
+  <img width="200" src="/image/1.png" alt="Material Bread logo">
+</p>
