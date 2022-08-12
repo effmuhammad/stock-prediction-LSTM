@@ -17,10 +17,8 @@ Reference:
 
 ## Gallery:
 
-![Initial data](/image/1.png)
+![Gal](/image/1.png)
+![Gal](/image/2.png)
+![Gal](/image/3.png)
+![Gal](/image/4.png)
 
-<p style="text-align: center;">Initial Data</p>
-
-<p align="center">
-  <img width="200" src="/image/1.png" alt="Material Bread logo">
-</p>
